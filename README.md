@@ -45,7 +45,7 @@ On CloudStack server you have to install libselinux-python
 Clone the repository
 ---------------
 
-    $ git clone https://github.com/ltupin/ansible-aws.git
+    $ git clone https://github.com/apachecloudstack/k8s
     $ cd ansible-kubernetes
 
 Create a Kubernetes cluster
@@ -63,7 +63,7 @@ If you retrieve an error during the ssh key copy:
 
     "msg": "file (/root/.ssh/id_rsa_k8s) is absent, cannot continue",
 
-Please run the Playbook a second time [(related issue)](https://github.com/ltupin/kubernetes-cloudstack/issues/1)
+Please run the Playbook a second time [(related issue)](https://github.com/apachecloudstack/k8s/issues/5)
 
 Create etcd cluster
 -------------------
