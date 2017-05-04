@@ -3,8 +3,6 @@ Ansible Recipes to Install Kubernetes on CloudStack
 
 Basic recipes using the ansible cloudstack module to create ssh keys, sec group etc and deploy [Kubernetes](http://kubernetes.io) on [CoreOS](http://coreos.com).
 
-Based on the kubernetes documentation [here](https://kubernetes.io/docs/getting-started-guides/cloudstack/)
-
 Prerequisites
 -------------
 
